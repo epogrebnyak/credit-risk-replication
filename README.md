@@ -16,6 +16,10 @@ Excercises in modelling of credit risk
 - Bluhm, C., L. Overbeck, and C. Wagner (2010). Introduction to Credit Risk Modeling (2nd ed.). Boca
 Raton, FL: Chapman & Hall / CRC.
 
+# Papers
+
+- https://arxiv.org/pdf/1412.1183.pdf
+
 # Datasets 
 
 - CSFB 

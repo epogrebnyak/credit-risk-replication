@@ -29,6 +29,11 @@ Raton, FL: Chapman & Hall / CRC.
 
 - [Alan Matz](http://www.columbia.edu/~amm26/index.html)
 
+# Courses
+
+- http://dse.univr.it/safe/index.php?option=com_content&task=view&id=68&Itemid=91
+- http://pages.stern.nyu.edu/~sternfin/vacharya/public_html/091-b403305-acharya.pdf
+
 
 # More
 
@@ -43,4 +48,5 @@ Raton, FL: Chapman & Hall / CRC.
 - [The Vasicek model is the same as the intensity model with a Gaussian copula, identical default
 probabilities and a large number of names.](http://dse.univr.it/safe/documents/SSEFCANAZEI2012/07_correlation_-_modeling.pdf)
 
-- 
+- [Caution over Copulas: Gaussian copula (method described here) widely used in practice but quite possibly a poor description of reality.```](http://leonardo3.dse.univr.it/safe/documents/SSEFCANAZEI2012/06_the_default_intensity_model_and_the_copula_approach.pdf)
+

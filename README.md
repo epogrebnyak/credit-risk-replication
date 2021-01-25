@@ -10,6 +10,7 @@ Excercises in modelling of credit risk
 - Plot empiric default probability density function
 - Demontrate expected and unexpected loss
 - Generalise to dependent default probabilities
+- https://www.imf.org/external/pubs/ft/wp/2006/wp06134.pdf
 
 # Textbooks
 

@@ -17,7 +17,7 @@ Pipeline:
 
 Code:
 
-[loss_density.ipynb](https://colab.research.google.com/drive/1xJCGGFTVd6hPqa2F_v5VwXwsU5qlNIi5#scrollTo=UWg1dhYasQQx)
+[![](https://badgen.net/badge/colab/loss_density.ipynb/orange)](https://colab.research.google.com/drive/1xJCGGFTVd6hPqa2F_v5VwXwsU5qlNIi5#scrollTo=UWg1dhYasQQx)
 
 Takeaway:
 

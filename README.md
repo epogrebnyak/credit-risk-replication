@@ -31,11 +31,11 @@ Expected loss absorbed by reserves and unexpected loss by economic capital.
 - [Bank of England (2015). Modelling Credit Risk](https://www.bankofengland.co.uk/-/media/boe/files/ccbs/resources/modelling-credit-risk)
 - [Regulatory Capital Modelling for Credit Risk - Marek Rutkowski and Silvio Tarca (2016)](https://arxiv.org/pdf/1412.1183.pdf)
 
-### Courses 
+#### Courses 
 
 - [Credit Risk](http://defaultrisk.free.fr/) from  École Nationale des Ponts et Chaussées
 
-### Videos
+#### Videos
 
 - [Risk Management Lesson 6B: Intro Credit Risk, The Standardized Approach and the IRBs](https://www.youtube.com/watch?v=q2JYfaet6Iw&list=PLgCR5H4IzggGihtfhTtA0fxGiBU8DMWHq&index=12)
 
@@ -104,6 +104,6 @@ Used dataset:
 
 - CSFB 
 
-## Excercise 2: roll forward portfolio structure by grades
+## Excercise 2: roll forward portfolio structure by credit quality grades
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If a BBB loan becomes BB, capital requirements will increase and expected losses too. And this will impact CET1. So, you need to understand how the rating split (including default) will move over time. To do this, one uses rating transition matrices.</p>&mdash; JohannesBorgen (@jeuasommenulle) <a href="https://twitter.com/jeuasommenulle/status/1255122789960429572?ref_src=twsrc%5Etfw">April 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

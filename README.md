@@ -8,23 +8,23 @@ and several replication excercises in credit risk modelling.
 Replicate [IMF 2006. Review and Implementation of Credit Risk Models of the Financial Sector
 Assessment Program](https://www.imf.org/external/pubs/ft/wp/2006/wp06134.pdf).
 
-Pipeline:
+#### Pipeline:
 
 - We start with indepndent defaults and then move to dependent defaults
 - We simulate defaults in a given loan portfolio with known PD
 - We plot empiric default probability density functions
 - We calculate expected and unexpected loss
 
-Code:
+#### Code:
 
 [![](https://badgen.net/badge/colab/loss_density.ipynb/orange)](https://colab.research.google.com/drive/1xJCGGFTVd6hPqa2F_v5VwXwsU5qlNIi5#scrollTo=UWg1dhYasQQx)
 
-Takeaway:
+#### Takeaway:
 
 Your choice of modelling technique affects your estimate of portfolio riskiness,
 for example dependent defaults increase porfolio risk.
 
-Used dataset:
+#### Used dataset:
 
 - CSFB 
 

@@ -3,10 +3,7 @@
 This is a [background reading](background.md)
 and several replication excercises in credit risk modelling.
 
-
-# Excercises
-
-## Excercise 1: Simulate default probability distributions
+## Excercise 1: Simulate empirical default probability distributions
 
 Replicate [IMF 2006. Review and Implementation of Credit Risk Models of the Financial Sector
 Assessment Program](https://www.imf.org/external/pubs/ft/wp/2006/wp06134.pdf).

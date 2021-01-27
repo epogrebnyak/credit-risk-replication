@@ -18,11 +18,12 @@ Modelling defaults:
 - a firm defaults when net asset price is negative ("structural" model, Merton)
 - we just count observed defaults among similar groups of firms ("reduced" model)
 
+Expected loss absorbed by reserves and unexpected loss by economic capital.
+
 
 #### Textbooks
 
-- Bluhm, C., L. Overbeck, and C. Wagner (2010). Introduction to Credit Risk Modeling (2nd ed.). Boca
-Raton, FL: Chapman & Hall / CRC.
+- Bluhm, Overbeck, and Wagner (2010). Introduction to Credit Risk Modeling. 
 
 #### Papers and reviews
 
@@ -34,6 +35,8 @@ Raton, FL: Chapman & Hall / CRC.
 - PD
 - LGD
 - EAD
+
+- ASRF
 
 <!--
 

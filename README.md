@@ -11,7 +11,7 @@ in credit risk modelling.
 Credit risk modelling goals:
 
 - pricing of loans and bonds
-- portfolio quality assessment and capital requirements
+- portfolio quality and capital requirements
  
 Modelling defaults: 
 
@@ -24,11 +24,20 @@ Expected loss absorbed by reserves and unexpected loss by economic capital.
 #### Textbooks
 
 - Bluhm, Overbeck, and Wagner (2010). Introduction to Credit Risk Modeling. 
+- Bolder (2018). Credit-Risk Modelling. Theoretical Foundations, Diagnostic Tools, Practical Examples, and Numerical Recipes in Python
 
 #### Papers and reviews
 
 - [Bank of England (2015). Modelling Credit Risk](https://www.bankofengland.co.uk/-/media/boe/files/ccbs/resources/modelling-credit-risk)
 - [Regulatory Capital Modelling for Credit Risk - Marek Rutkowski and Silvio Tarca (2016)](https://arxiv.org/pdf/1412.1183.pdf)
+
+### Courses 
+
+- [Credit Risk](http://defaultrisk.free.fr/) from  École Nationale des Ponts et Chaussées
+
+### Videos
+
+- [Risk Management Lesson 6B: Intro Credit Risk, The Standardized Approach and the IRBs](https://www.youtube.com/watch?v=q2JYfaet6Iw&list=PLgCR5H4IzggGihtfhTtA0fxGiBU8DMWHq&index=12)
 
 ## Glossary
 
@@ -62,6 +71,9 @@ More references:
 - [The Vasicek model is the same as the intensity model with a Gaussian copula, identical default
 probabilities and a large number of names.](http://dse.univr.it/safe/documents/SSEFCANAZEI2012/07_correlation_-_modeling.pdf)
 - [Caution over Copulas: Gaussian copula (method described here) widely used in practice but quite possibly a poor description of reality.```](http://leonardo3.dse.univr.it/safe/documents/SSEFCANAZEI2012/06_the_default_intensity_model_and_the_copula_approach.pdf)
+
+Math:
+- [Lando](https://www.amazon.com/Credit-Risk-Modeling-Applications-Princeton/dp/0691089299#customerReviews)
 
 -->
 

@@ -1,13 +1,12 @@
 # credit-risk-replication
 
-![](https://img.shields.io/github/last-commit/epogrebnyak/credit-risk-replication)
+[![](https://img.shields.io/github/last-commit/epogrebnyak/credit-risk-replication)][home]
 
 This pages has describes some  replication excercises in banking and credit risk modelling.
 
 There is a [background reading page](background.md) with textbook references and course links. 
 
-This page code source is on [Github](https://github.com/epogrebnyak/credit-risk-replication) 
-and in notebooks in Google Colab by excercise.
+[home]: https://github.com/epogrebnyak/credit-risk-replication
 
 ## Why make these excercises?
 

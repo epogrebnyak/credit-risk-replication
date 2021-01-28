@@ -6,21 +6,27 @@
 
 ## Concepts
 
-Credit risk modelling goals:
+1. Credit risk modelling goals:
 
 - pricing of loans and bonds
 - portfolio quality and capital requirements
  
-Modelling defaults: 
+2. Modelling defaults: 
 
 - a firm defaults when net asset price is negative ("structural" model, Merton)
 - we just count observed defaults among similar groups of firms ("reduced" model)
 
-Expected loss absorbed by reserves and unexpected loss by economic capital.
+3. Expected loss absorbed by reserves and unexpected loss by economic capital.
 
 ## Literature 
 
 #### Textbooks
+
+General:
+
+- [Hull. Risk Management and Financial Institutions](https://www-2.rotman.utoronto.ca/~hull/riskman/index.html)
+
+Credit risk:
 
 - Bluhm, Overbeck, and Wagner (2010). Introduction to Credit Risk Modeling. 
 - Bolder (2018). Credit-Risk Modelling. Theoretical Foundations, Diagnostic Tools, Practical Examples, and Numerical Recipes in Python

@@ -1,6 +1,6 @@
-![](https://img.shields.io/github/last-commit/epogrebnyak/credit-risk-replication)
-
 # credit-risk-replication
+
+![](https://img.shields.io/github/last-commit/epogrebnyak/credit-risk-replication)
 
 This pages has describes some  replication excercises in banking and credit risk modelling.
 

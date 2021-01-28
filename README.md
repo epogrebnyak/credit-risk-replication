@@ -1,10 +1,46 @@
 # credit-risk-replication
 
+(C) 2021 Evgeniy Pogrbenyak and contributors. 
+
 This is a [background reading](background.md)
 and several replication excercises in credit risk modelling. 
 
 Code source is on [Github](https://github.com/epogrebnyak/credit-risk-replication) 
 and in notebooks in Google Colab.
+
+## Why these excercises?
+
+It is a bit surprising there are so few open source numeric excercises with 
+banking data and in credit risk modelling. Starting from more trivial   
+excercises that focus on key relationships and computation tasks 
+and going to more realistic portfolios and bank balance sheet detail can be 
+a very fulfilling path, where a learner progressively gains confidence.
+
+Yet there are obstacles: 
+
+- lack of accessible textbooks (a lot of textbooks go deep into math too soon)
+- lack of data, especially for corporate portfolios 
+- general propensity for complex models that may obfuscate risk instead of revealing it
+- bank risk management failure in 2008 
+- plenty of noise in low-quality tutorials where machine learning would do all the necessary job.
+
+What would I like to cover in these excercises? A starting point could be a bank with 
+a portfolio of 100 identical loans with known probabilities of default. 
+What amount of capital should a bank hold for these loans? What is the bank profit 
+after a year of operation? What should the bank do next?  
+
+From this starting point one can go into more assymetries:
+
+- portfolio of loans of different sizes and credit quality
+- household vs corporate loans
+- more bank products (credit facility, guarantees)
+- what happens at default
+- single bank vs bank system view in broader economy
+- bank in a business cycke
+
+It would be nice to provide small pieces fo data and code to show that 
+you can build up you understanding of empirical banking 
+and credit risk incrementally. Below are some starter excercises in this direction.
 
 ## Excercise 1: Simulate empirical default probability distributions
 
@@ -31,7 +67,7 @@ for example dependent defaults increase porfolio risk.
 
 #### Used dataset:
 
-- CSFB 
+- CSFP
 
 ## Excercise 2: roll forward portfolio structure by credit quality grades
 

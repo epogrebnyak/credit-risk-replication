@@ -20,7 +20,9 @@ Assessment Program](https://www.imf.org/external/pubs/ft/wp/2006/wp06134.pdf).
 
 #### Code:
 
-[![](https://badgen.net/badge/colab/loss_density.ipynb/orange)](https://colab.research.google.com/drive/1xJCGGFTVd6hPqa2F_v5VwXwsU5qlNIi5?usp=sharing)
+[![](https://badgen.net/badge/colab/loss_density.ipynb/orange)][colab_1]
+
+[colab_1]: https://colab.research.google.com/drive/1xJCGGFTVd6hPqa2F_v5VwXwsU5qlNIi5?usp=sharing
 
 #### Takeaway:
 

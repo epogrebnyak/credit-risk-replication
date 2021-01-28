@@ -2,16 +2,19 @@
 
 (C) 2021 Evgeniy Pogrbenyak and contributors. 
 
-This is a [background reading](background.md)
-and several replication excercises in credit risk modelling. 
+This pages has describes some  replication excercises in credit risk modelling.
+
+There is a [background reading page](background.md) with more references. 
 
 Code source is on [Github](https://github.com/epogrebnyak/credit-risk-replication) 
 and in notebooks in Google Colab.
 
-## Why these excercises?
+## Why make these excercises?
 
 It is a bit surprising there are so few open source numeric excercises with 
-banking data and in credit risk modelling. Starting from more trivial   
+banking data and in credit risk modelling. 
+
+Starting from more trivial   
 excercises that focus on key relationships and computation tasks 
 and going to more realistic portfolios and bank balance sheet detail can be 
 a very fulfilling path, where a learner progressively gains confidence.

@@ -2,9 +2,9 @@
 
 This pages has describes some  replication excercises in banking and credit risk modelling.
 
-There is a [background reading page](background.md) with more references. 
+There is a [background reading page](background.md) with textbook references and course links. 
 
-Code source is on [Github](https://github.com/epogrebnyak/credit-risk-replication) 
+This page code source is on [Github](https://github.com/epogrebnyak/credit-risk-replication) 
 and in notebooks in Google Colab.
 
 ## Why make these excercises?
@@ -77,4 +77,4 @@ for example dependent defaults increase porfolio risk.
 
 # Copyright
 
-(C) 2021 Evgeniy Pogrebnyak and contributors
+(C) 2021, Evgeniy Pogrebnyak and contributors

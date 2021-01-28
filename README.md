@@ -1,7 +1,10 @@
 # credit-risk-replication
 
 This is a [background reading](background.md)
-and several replication excercises in credit risk modelling.
+and several replication excercises in credit risk modelling. 
+
+Code source is on [Github](https://github.com/epogrebnyak/credit-risk-replication) 
+and in notebooks in Google Colab.
 
 ## Excercise 1: Simulate empirical default probability distributions
 

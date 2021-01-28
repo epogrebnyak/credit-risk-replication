@@ -39,7 +39,7 @@ Credit risk:
 #### Courses 
 
 - [Credit Risk](http://defaultrisk.free.fr/) from  École Nationale des Ponts et Chaussées
-- [Risk Management and Governance](https://www2.ulb.ac.be/cours/solvay/pirotte/INGESTriskmgt/index.html) from 	
+- [Risk Management and Governance](https://www2.ulb.ac.be/cours/solvay/pirotte/INGESTriskmgt/index.html) 	
 
 #### Videos
 

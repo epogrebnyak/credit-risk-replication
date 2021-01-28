@@ -1,8 +1,6 @@
 # credit-risk-replication
 
-(C) 2021 Evgeniy Pogrbenyak and contributors. 
-
-This pages has describes some  replication excercises in credit risk modelling.
+This pages has describes some  replication excercises in banking and credit risk modelling.
 
 There is a [background reading page](background.md) with more references. 
 
@@ -75,3 +73,8 @@ for example dependent defaults increase porfolio risk.
 ## Excercise 2: roll forward portfolio structure by credit quality grades
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If a BBB loan becomes BB, capital requirements will increase and expected losses too. And this will impact CET1. So, you need to understand how the rating split (including default) will move over time. To do this, one uses rating transition matrices.</p>&mdash; JohannesBorgen (@jeuasommenulle) <a href="https://twitter.com/jeuasommenulle/status/1255122789960429572?ref_src=twsrc%5Etfw">April 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+# Copyright
+
+(C) 2021 Evgeniy Pogrebnyak and contributors
